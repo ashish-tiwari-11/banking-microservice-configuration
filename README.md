@@ -1,2 +1,1 @@
-# manocab-microservice
-A react and springboot based microservice application 
+# banking-microservice-configuration
