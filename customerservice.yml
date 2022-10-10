@@ -1,4 +1,4 @@
- spring:
+spring:
   application:
     name: customerservice  
   datasource:
@@ -12,6 +12,7 @@
       ddl-auto: none
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+        
 server:
   port: 8081
   
