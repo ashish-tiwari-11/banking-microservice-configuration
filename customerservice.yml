@@ -4,6 +4,9 @@ server:
 spring:
   application:
     name: CUSTOMERSERVICE
+  h2:
+    console:
+      enabled: true
   datasource:
     url: jdbc:h2:mem:bankingms
     username: sa
